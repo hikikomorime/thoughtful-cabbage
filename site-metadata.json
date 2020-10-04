@@ -6,7 +6,7 @@
   "header": {
     "type": "header",
     "template": "header",
-    "title": "Michael",
+    "title": "Michael Skweres",
     "has_nav": true,
     "nav_links": [
       {
@@ -69,13 +69,13 @@
   "footer": {
     "type": "footer",
     "template": "footer",
-    "content": "&copy; Stackbit-Exto. All rights reserved.",
+    "content": "&copy; Michael Skweres. All rights reserved.",
     "links": [
       {
         "type": "action",
         "template": "action",
-        "label": "Made with Stackbit.",
-        "url": "https://www.stackbit.com",
+        "label": "Made with ❤ in Poland",
+        "url": "https://www.google.pl/maps/place/Polska/@51.9358379,16.8921266,7z/data=!3m1!4b1!4m5!3m4!1s0x47009964a4640bbb:0x97573ca49cc55ea!8m2!3d51.919438!4d19.145136",
         "style": "link",
         "new_window": true,
         "icon_class": ""
