@@ -37,6 +37,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/blog/blogujemy.md
 - src/pages/blog/function-of-design.md
 - src/pages/blog/games.md
 - src/pages/blog/green.md
