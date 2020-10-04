@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: static/admin
-webhook_url: https://api.stackbit.com/project/5f7965a0b0396b001548b7f1/webhook/forestry
+webhook_url: https://api.netlify.com/build_hooks/5f796616a7879ae3d0cc2c3d
 sections:
 - type: document
   path: site-metadata.json
