@@ -4,7 +4,7 @@ hide_title: true
 sections:
 - type: section_hero
   template: section_hero
-  title: Hi :)
+  title: Hi there :)
   section_id: hero
   content: This section can contain a subtitle or tagline. The recommended length
     is one to three sentences, but can be changed as you prefer.
