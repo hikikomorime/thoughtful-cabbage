@@ -1,7 +1,7 @@
 ---
 title: About me
 subtitle: This is a humble resume of mine.
-image: images/about.jpg
+image: "/images/dsc01011-scaled_57ab4d2e624702ac3fae72d14fc852b4.jpg"
 template: page
 excerpt: ''
 
